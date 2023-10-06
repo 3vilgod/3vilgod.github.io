@@ -723,12 +723,12 @@ main {
 
 
 /**
- * #clients 
+ * #certifications 
  */
 
-.clients { margin-bottom: 15px; }
+.certifications { margin-bottom: 15px; }
 
-.clients-list {
+.certifications-list {
   display: flex;
   justify-content: flex-start;
   align-items: flex-start;
@@ -743,18 +743,18 @@ main {
   scroll-padding-inline: 25px;
 }
 
-.clients-item {
-  min-width: 50%;
-  scroll-snap-align: start;
+.certifications-item {
+  min-width: 45%;
+  scroll-snap-align: center;
 }
 
-.clients-item img {
-  width: 100%;
+.certifications-item img {
+  width: 50%;
   filter: grayscale(1);
   transition: var(--transition-1);
 }
 
-.clients-item img:hover { filter: grayscale(0); }
+.certifications-item img:hover { filter: grayscale(0); }
 
 
 
