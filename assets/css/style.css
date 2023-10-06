@@ -744,7 +744,7 @@ main {
 }
 
 .certifications-item {
-  min-width: 45%;
+  min-width: 20%;
   scroll-snap-align: center;
 }
 
