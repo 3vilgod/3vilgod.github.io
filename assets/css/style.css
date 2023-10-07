@@ -749,7 +749,7 @@ main {
 }
 
 .certifications-item img {
-  width: 50%;
+  width: 45%;
   filter: grayscale(1);
   transition: var(--transition-1);
 }
