@@ -744,12 +744,12 @@ main {
 }
 
 .certifications-item {
-  min-width: 20%;
+  min-width: 10%;
   scroll-snap-align: center;
 }
 
 .certifications-item img {
-  width: 45%;
+  width: 50%;
   filter: grayscale(1);
   transition: var(--transition-1);
 }
